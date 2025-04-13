@@ -11,10 +11,6 @@
     <x-preloader/>
     <!-- End preloader -->
 
-    <!-- Start scrolltop -->
-    <x-scrolltop/>
-    <!-- End scrolltop -->
-
     <div class="fix">
 
         <!--Start Main Header Two -->
